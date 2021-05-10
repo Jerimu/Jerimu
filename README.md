@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Jerimu
+- 👀 I’m interested in PHP (And its frameworks), Java, Docker, Bash Scripting.
